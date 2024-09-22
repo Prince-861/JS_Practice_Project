@@ -47,7 +47,7 @@ body{
 /* hover button will work when the button is not disabled and it will not work when it is disabled.*/
 .btn:hover:not([disabled]){
     background:#222;
-    color:#fff;
+    color:#cc1515;
 }
 /* no-drop helps cursor to become red and it will not work on any button. */
 .btn:disabled{
