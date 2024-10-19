@@ -20,8 +20,6 @@ function stopwatch(){
     displayTime.innerHTML = h+":"+m+":"+s; 
 }
 
-// We have to execute the above function(stopwatch()) every second 
-// So, every second it will increase the value by 1 second.For that we will have to use the JS timeinterval function.
 
 function watchStart(){
     if(timer!== null){
